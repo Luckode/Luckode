@@ -1,3 +1,5 @@
+NOTICE: On July 2nd, 2026, development on Luckode Juno and LuckodeX was cancelled.
+
 Hello and welcome to the Github mirror for Luckode, the Scratch 1.4 modification to use in the modern day.
 
 To suggest things like features and blocks, and if you'd like to receive updates, please go to https://scratch.mit.edu/discuss/topic/866348 or Luckode's Twitter account at https://x.com/LuckodeMod.
